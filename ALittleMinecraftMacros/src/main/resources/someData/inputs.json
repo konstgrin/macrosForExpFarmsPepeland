@@ -1,0 +1,6 @@
+{
+  "changeHandKey": 70,
+  "slaysByDefault": 200,
+  "mendingSlots": [2, 3, 4, 5, 6],
+  "minutesByDefault": 0.1
+}
